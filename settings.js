@@ -43,7 +43,13 @@ global.author = 'OSADA BRO' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `┏━━━━━°☛•°:❎OSADA BRO™彡 ❎:°•☚°━━━━━┓*
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+global.alive =`Hello i am alive now
+
+Download song type .yt 
+Thanks fro using...
+┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
 
 ꦖBOT IS ONLINE ᳆⃟
 
@@ -69,12 +75,7 @@ http://wa.me//+94776946420
 
 http://wa.me//+2347046892050
 
-➳̶̶̶᭄➤🅞🅢🅐🅓🅐 🅑🅡🅞 ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯ ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
-
-Download song type .yt 
-Thanks fro using...`
+➳̶̶̶᭄➤🅞🅢🅐🅓🅐 🅑🅡🅞 ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
 🌀 Thanks Fro using KING OSADA bot
