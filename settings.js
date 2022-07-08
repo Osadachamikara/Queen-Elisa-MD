@@ -43,7 +43,7 @@ global.author = 'OSADA BRO' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `┏━━━━━°☛•°:❎OSADA BRO™彡 ❎:°•☚°━━━━━┓*
 
 ꦖBOT IS ONLINE ᳆⃟
 
@@ -79,7 +79,7 @@ Thanks fro using...`
 global.welcome = `
 🌀 Thanks Fro using KING OSADA bot
 ✾ Some bugs fixing
-┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+┏━━━━━°☛•°:❎OSADA BRO™彡 ❎:°•☚°━━━━━┓*
 🙏සාදරෙන් පිලිගන්නවා🙏
 
 
