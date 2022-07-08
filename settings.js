@@ -49,7 +49,7 @@ global.alive =`Hello i am alive now
 
 Download song type .yt 
 Thanks fro using...
-┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+┏━━━━━°☛•°:❎OSADA BRO™彡 ❎:°•☚°━━━━━┓*
 
 ꦖBOT IS ONLINE ᳆⃟
 
